@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/programigos/static/css/main.6d8b9d0b.chunk.css",
+    "main.js": "/programigos/static/js/main.f0e1a9ac.chunk.js",
+    "main.js.map": "/programigos/static/js/main.f0e1a9ac.chunk.js.map",
+    "runtime-main.js": "/programigos/static/js/runtime-main.e8adac1f.js",
+    "runtime-main.js.map": "/programigos/static/js/runtime-main.e8adac1f.js.map",
+    "static/css/2.7f2ec892.chunk.css": "/programigos/static/css/2.7f2ec892.chunk.css",
+    "static/js/2.73211991.chunk.js": "/programigos/static/js/2.73211991.chunk.js",
+    "static/js/2.73211991.chunk.js.map": "/programigos/static/js/2.73211991.chunk.js.map",
+    "static/js/3.3c3e0f41.chunk.js": "/programigos/static/js/3.3c3e0f41.chunk.js",
+    "static/js/3.3c3e0f41.chunk.js.map": "/programigos/static/js/3.3c3e0f41.chunk.js.map",
+    "index.html": "/programigos/index.html",
+    "static/css/2.7f2ec892.chunk.css.map": "/programigos/static/css/2.7f2ec892.chunk.css.map",
+    "static/css/main.6d8b9d0b.chunk.css.map": "/programigos/static/css/main.6d8b9d0b.chunk.css.map",
+    "static/js/2.73211991.chunk.js.LICENSE.txt": "/programigos/static/js/2.73211991.chunk.js.LICENSE.txt",
+    "static/media/Programigos.6f23a76a.png": "/programigos/static/media/Programigos.6f23a76a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8adac1f.js",
+    "static/css/2.7f2ec892.chunk.css",
+    "static/js/2.73211991.chunk.js",
+    "static/css/main.6d8b9d0b.chunk.css",
+    "static/js/main.f0e1a9ac.chunk.js"
+  ]
+}
